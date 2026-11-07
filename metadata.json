@@ -1,0 +1,8 @@
+{
+  "name": "LOVENTO AI ❤️",
+  "description": "LOVENTO AI - Your AI Friends. ❤️ Created & Developed by BENU RANA. Premium AI Companion & Intelligent Assistant Platform.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
